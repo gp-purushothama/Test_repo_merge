@@ -6,7 +6,7 @@
  */
 
 /**
- * Root directory of Drupal installation.
+ * Root directory of Drupal installation.dsgdsfgdsfgdfgdf
  */
 define('DRUPAL_ROOT', getcwd());
 
