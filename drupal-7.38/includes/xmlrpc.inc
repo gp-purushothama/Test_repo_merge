@@ -10,7 +10,7 @@
  * Manual: http://scripts.incutio.com/xmlrpc/manual.php
  * This version is made available under the GNU GPL License
  */
-
+// Extra things
 /**
  * Turns a data structure into objects with 'data' and 'type' attributes.
  *
